@@ -24,7 +24,7 @@ class MainTabViewState extends State<MainTabView> {
 
   //创建页面
   final List<Widget> _PagesTab = [
-    TestPages(),
+
     HomePages(),
     CatePages(),
     ShopPages(),
@@ -34,7 +34,7 @@ class MainTabViewState extends State<MainTabView> {
 
   //抽取底部组件
   final List<BottomNavigationBarItem> pages = [
-    BottomNavigationBarItem(icon: Icon(Icons.home), title: Text("首页")),
+
     BottomNavigationBarItem(icon: Icon(Icons.home), title: Text("首页")),
     BottomNavigationBarItem(icon: Icon(Icons.category), title: Text("分类")),
     BottomNavigationBarItem(
@@ -42,8 +42,7 @@ class MainTabViewState extends State<MainTabView> {
     BottomNavigationBarItem(icon: Icon(Icons.home), title: Text("会员")),
   ];
 
-  //设置当前的
-  // ignore: non_constant_identifier_names
+
   int _currntIndex = 2;
   PageController _pageController;
 
