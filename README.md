@@ -19,6 +19,7 @@ Flutter_shops功能
 
 项目截图
 ------------------
+![avatar](/screenshots/screenshot_20210318113311874.jpg)
 ![首页](https://github.com/xuell0601/flutter_shops/screenshots/screenshot_20210318113324934.jpg)
 ![首页](https://raw.githubusercontent.com/youxinLu/flutter_mall/master/screenshots/2020-12-28-08-28-45.jpg)<br>
 ![分类](https://raw.githubusercontent.com/youxinLu/flutter_mall/master/screenshots/2020-12-28-08-13-39.jpg)
