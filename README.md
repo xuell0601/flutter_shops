@@ -21,23 +21,6 @@ Flutter_shops功能
 ------------------
 ![avatar](/screenshots/screenshot_20210318113311874.jpg)
 ![首页](https://github.com/xuell0601/flutter_shops/screenshots/screenshot_20210318113324934.jpg)
-![首页](https://raw.githubusercontent.com/youxinLu/flutter_mall/master/screenshots/2020-12-28-08-28-45.jpg)<br>
-![分类](https://raw.githubusercontent.com/youxinLu/flutter_mall/master/screenshots/2020-12-28-08-13-39.jpg)
-![分类商品列表](https://raw.githubusercontent.com/youxinLu/flutter_mall/master/screenshots/2020-12-28-08-13-55.jpg)<br>
-![分类商品列表](https://raw.githubusercontent.com/youxinLu/flutter_mall/master/screenshots/2020-12-28-08-13-30.jpg)
-![购物车](https://raw.githubusercontent.com/youxinLu/flutter_mall/master/screenshots/2020-12-28-08-17-25.jpg)<br>
-![我的](https://raw.githubusercontent.com/youxinLu/flutter_mall/master/screenshots/2020-12-28-08-19-37.jpg)
-![商品详情](https://raw.githubusercontent.com/youxinLu/flutter_mall/master/screenshots/2020-12-28-08-14-26.jpg)<br>
-![商品详情](https://github.com/youxinLu/mall/raw/master/screenshots/2020-12-28-08-14-32.jpg)
-![下单](https://raw.githubusercontent.com/youxinLu/flutter_mall/master/screenshots/2020-12-28-08-15-50.jpg)<br>
-![我的收藏](https://raw.githubusercontent.com/youxinLu/flutter_mall/master/screenshots/2020-12-28-08-20-58.jpg)
-![我的订单](https://raw.githubusercontent.com/youxinLu/flutter_mall/master/screenshots/2020-12-28-08-21-28.jpg)<br>
-![订单详情](https://raw.githubusercontent.com/youxinLu/flutter_mall/master/screenshots/2020-12-28-08-29-20.jpg)
-![地址管理](https://raw.githubusercontent.com/youxinLu/flutter_mall/master/screenshots/2020-12-28-08-29-31.jpg)<br>
-![添加地址](https://raw.githubusercontent.com/youxinLu/flutter_mall/master/screenshots/2020-12-28-08-29-40.jpg)
-![我的收藏](https://raw.githubusercontent.com/youxinLu/flutter_mall/master/screenshots/2020-12-28-08-21-52.jpg)
-
-
 
 第三方框架
 -----------------
