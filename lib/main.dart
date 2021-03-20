@@ -36,6 +36,7 @@ class MyAppState extends State<MyApp> {
     Application.router=router;
 
     return MaterialApp(
+
       debugShowCheckedModeBanner: false,
       title: "sd",
       onGenerateRoute: Application.router.generator,

@@ -43,7 +43,7 @@ class MainTabViewState extends State<MainTabView> {
   ];
 
 
-  int _currntIndex = 2;
+  int _currntIndex = 0;
   PageController _pageController;
 
   @override
